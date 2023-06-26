@@ -1,0 +1,31 @@
+buildscript {
+    repositories {
+        google()
+    }
+
+    dependencies {
+        classpath 'com.android.tools.build:gradle:7.3.1'
+    }
+}
+
+plugins {
+    id 'org.sonarqube' version '3.4.0.2513'
+}
+
+allprojects {
+    repositories {
+        google()
+        mavenCentral()
+    }
+}
+
+sonarqube {
+    properties {
+        // Root project information
+        property 'sonar.projectKey', 'org.uzxteam'
+        property 'sonar.organization', 'uzxteam'
+        property 'sonar.projectName', 'antihack'
+        property 'sonar.projectVersion', '1.0'
+        property 'sonar.host.url', 'https://sonarcloud.io'
+    }
+}

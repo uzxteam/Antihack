@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <!--Buttons-->
+    <string name="button_exit">Chiqish</string>
+    <string name="button_close">Yopish</string>
+    <string name="button_yes">Ha</string>
+    <string name="button_no">Yo`q</string>
+    <string name="button_add">Qo`shish</string>
+    <string name="button_cancel">Orqaga</string>
+    <string name="button_save">Saqlash</string>
+    <string name="button_help">Yordam</string>
+
+    <!--Home-->
+    <string name="header_help">Hush kelibsiz!</string>
+    <string name="text_help">Bu ilova havfsizligingiz uchun hizmat qiladi.!</string>
+    <string name="button_show_help">Yordam</string>
+    <string name="icon_update_status">Yangilash</string>
+    <string name="text_update">Kerakli fayllar yuklab olindi.</string>
+    <string name="button_enable_hosts">Iova yoqildi.</string>
+    <string name="button_disable_hosts">Ilova o`chirildi.</string>
+    <string name="header_webserver">Web server</string>
+    <string name="webserver_status_running">Ishlamoqda</string>
+    <string name="webserver_status_stopped">To`xtatilmoqda</string>
+    <string name="webserver_toggle_text">Bloklangan hostnomlari sorovlarga javob bermaydi.</string>
+    <string name="button_enable_webserver">Web server yoqildi</string>
+    <string name="button_disable_webserver">Web server o`chirildi</string>
+    <string name="header_vpn">VPN</string>
+    <string name="vpn_status_running">Yoqilmoqda</string>
+    <string name="vpn_status_stopped">O`chirilmoqda</string>
+    <string name="vpn_toggle_text">Xavfsizlikni ta`minlash uchun VPN ni yoqing</string>
+    <string name="button_enable_vpn">VPN yoqish</string>
+    <string name="button_disable_vpn">VPN o`chirish</string>
+
+    <!--Checkbox List-->
+    <string name="checkbox_list_context_title">Yozuvni tahrirlash</string>
+    <string name="checkbox_list_context_apply">Qo`llash</string>
+    <string name="checkbox_list_context_edit">O`zgartirish</string>
+    <string name="checkbox_list_context_delete">O`chirish</string>
+
+    <!--Your lists-->
+    <string name="import_dialog">Import qilinmoqda…</string>
+    <string name="import_success">Zaxira nusxasi tashqi xotiradan muvaffaqiyatli import qilindi.</string>
+    <string name="import_failed">Zaxira nusxasini import qilib bo‘lmadi. Uning formati to`g`rimi? Batafsil ma`lumot uchun logcat-ni tekshiring.</string>
+    <string name="export_dialog">Eksport qilinmoqda…</string>
+    <string name="export_success">Zaxira faylga muvaffaqiyatli eksport qilindi \'%s\' tashqi xotirangizda.</string>
+    <string name="export_failed">Zaxira faylni eksport qilib bo‘lmadi \'%s\'.</string>
+
+    <!--Hosts content-->
+    <string name="hosts_header">Xostlar fayli</string>
+    <string name="hosts_description">Xostlar fayli - bu xost nomlarini IP manzillar bilan taqqoslaydigan tizim fayli. Bu oddiy matnli fayl bo`lib, uning konfiguratsiyasi ilova tomonidan boshqariladi. Mana uning bir nechta birinchi qatorlari:</string>
+    <string name="hosts_content">Xost fayli kontenti yuklanmoqda…</string>
+    <string name="hosts_open_button">Xostlar faylini oching</string>
+
+    <!--Status Notification-->
+    <string name="status_check">Yangilanish tekshirilmoqda</string>
+    <string name="status_check_source">Yangilanish uchun %s manbasi tekshirilmoqda</string>
+    <string name="status_retrieve">Manbalarni olish</string>
+    <string name="status_download_source">Yuklab olish manbasi %s</string>
+    <string name="status_read_source">O`qish manbasi %s</string>
+    <string name="status_parse_source">%s manba tahlil qilinmoqda</string>
+    <string name="status_sync_database">Sinxronlash qoidalari ma`lumotlar bazasi</string>
+    <string name="status_revert">Standart xostlar fayliga qaytarilmoqda</string>
+    <string name="status_revert_done">Standart xostlar fayli tiklandi</string>
+    <string name="status_reverting_subtitle">Standart xostlar faylini yaratish</string>
+    <string name="status_update_available">Manba yangilanishi mavjud</string>
+    <string name="status_update_available_subtitle">Yangi xostlar fayllari mavjud</string>
+    <string name="status_no_update_found">Hech qanday yangilanish manbasi topilmadi</string>
+    <string name="status_no_connection">Internet aloqasi yo`q</string>
+    <string name="status_no_connection_subtitle">Internet aloqasi mavjud emas</string>
+    <string name="status_download_fail">Mavjud bo`lmagan manbalar</string>
+    <string name="status_download_fail_subtitle_new">Hech qanday xost manbalariga kirish imkoni yo`q!</string>
+    <string name="status_root_access_denied">Ildizga kirish rad etildi</string>
+    <string name="status_root_access_denied_subtitle">Ilovaga ildiz huquqini bering</string>
+    <string name="status_failure">Nimadir noto`g`ri bajarildi</string>
+    <string name="status_failure_subtitle">Batafsil ma`lumot uchun logcat-ni tekshiring</string>
+    <string name="status_enabled">Yoqilgan</string>
+    <string name="status_enabled_subtitle">Eng yangi xostlar fayllari yoqilgan</string>
+    <string name="status_disabled">O‘chirilgan</string>
+    <string name="status_disabled_subtitle">Odatiy xostlar fayli oʻrnatilgan</string>
+    <string name="status_apply_sources">Eng so`nggi manbalarni qo`llang</string>
+    <string name="status_create_new_hosts">Yangi xostlar faylini yaratish</string>
+    <string name="status_copy_new_hosts">Yangi xostlar faylidan nusxa olinmoqda</string>
+    <string name="status_check_copy">Xostlar fayl nusxasi tekshirilmoqda</string>
+    <string name="status_hosts_updated">Xostlar fayli muvaffaqiyatli yangilandi</string>
+    <string name="status_vpn_configuration_updated">VPN konfiguratsiyasi muvaffaqiyatli yangilandi</string>
+    <string name="notification_configuration_changed">Sizning konfiguratsiyangiz o`zgartirildi.</string>
+    <string name="notification_configuration_changed_action">Qo`llash</string>
+    <string name="notification_configuration_installing">Yangi konfiguratsiya qoʻllanmoqda…</string>
+    <string name="notification_configuration_failed">Yangi konfiguratsiyani qo‘llab bo‘lmadi.</string>
+
+    <!--Apply and Revert Dialogs-->
+    <string name="apply_symlink_missing_status">Xost fayli maqsadiga simli havola etishmayapti</string>
+    <string name="apply_symlink_missing">Maqsadingizdan /system/etc/hosts-ga simli havola mavjud emas yoki noto`g`ri! Agar u toʻgʻri faylga ishora qilmasa, Ilova ishlamaydi.\n\n Simli havola yaratib koʻrmoqchimisiz?</string>
+    <string name="apply_symlink_missing_title">Simli havola yetishmayapti</string>
+    <string name="apply_not_enough_space">Boʻlimda yetarli joy yoʻq!\nMaqsadli hostlar faylini afzal koʻrgan holda /data/data/hosts ga oʻzgartirib koʻring.</string>
+    <string name="apply_not_enough_space_title">Joy yetarli emas</string>
+    <string name="apply_private_file_fail">Yuklab olingan faylni oʻqib boʻlmadi.</string>
+    <string name="apply_private_file_fail_title">Shaxsiy fayl muvaffaqiyatsiz</string>
+    <string name="apply_remount_fail">Bo`limni o`qish/yozish sifatida qayta o`rnatib bo`lmadi!</string>
+    <string name="apply_remount_fail_title">Qayta o‘rnatib bo‘lmadi</string>
+    <string name="apply_copy_fail_status">Xostlar faylini nusxalab bo‘lmadi</string>
+    <string name="apply_copy_fail">Xostlar faylidan nusxa olinmadi!</string>
+    <string name="apply_copy_fail_title">Nusxalash amalga oshmadi</string>
+    <string name="apply_success_subtitle">Qo`llaniladigan xostlar manbalari</string>
+    <string name="apply_success_title">Muvaffaqiyatli ariza</string>
+    <string name="apply_success_dialog">Murojaat muvaffaqiyatli boʻldi.\nOʻzgarishlar kuchga kirishi uchun Android’ni qayta ishga tushirish kerak boʻlishi mumkin.\n\nOʻchirishni xohlaysizmi?\n(Maʼlumotlar yoʻqolishining oldini olish uchun hozirda hech bir ilova SD-kartadan foydalanmasligiga ishonch hosil qiling!)</string>
+    <string name="apply_symlink_successful">Symlink ma`lumotlar yaratildi.\nOʻzgarishlar kuchga kirishi uchun Android’ni qayta ishga tushirish kerak boʻlishi mumkin\nQayta ishga qoʻyishni xoxlaysizmi?</string>
+    <string name="apply_symlink_successful_title">Symlink yaratildi</string>
+    <string name="apply_symlink_fail">Symlinkni Android tomonidan yaratib boʻlmadi.\nBu asosan HTC telefonlarida S-ON deb nomlangan \"funksiya\" tufayli muvaffaqiyatsiz tugadi!\n\nTelefoningizni tiklash rejimiga yuklash va u yerda \'ln yordamida simli havola yaratishdir. -s /data/data/hosts /system/etc/hosts\'.\n\nAgar bu ishlamasa, Internetda S-OFF va telefoningizni qidiring.</string>
+    <string name="apply_symlink_fail_title">Symlink yaratilmadi</string>
+    <string name="apply_help">Qo`shimcha ma`lumot uchun Yordamni o`qing.</string>
+    <string name="apply_apn_proxy">Android qurilmangizda APN proksi-server o‘rnatilgan!\nIlova 3G kabi mobil tarmoqlarda ishonchli ishlamaydi. Siz tanlagan APN-ga (Sozlamalar ilovasidan: Tarmoq va Internet -> Mobil tarmoq -> Kengaytirilgan -> Kirish nuqtasi nomlari) oʻtish orqali ushbu proksi-serverni oʻchirib qoʻyishingiz va proksi maydonidagi qiymatni olib tashlashingiz mumkin.</string>
+    <string name="apply_apn_proxy_title">APN proksi to`plami!</string>
+    <string name="no_connection">Internetga ulanish ishlamayapti.</string>
+    <string name="no_connection_title">Ulanish yo`q</string>
+    <string name="download_dialog">Yuklab olinmoqda…</string>
+    <string name="apply_dialog">Qo`llanilmoqda…</string>
+    <string name="apply_dialog_lists">Qora roʻyxat va oq roʻyxatni qoʻllash</string>
+    <string name="apply_dialog_hostnames">Xost fayllarini tahlil qilish va birlashtirish</string>
+    <string name="apply_dialog_hosts">Xostlar faylini yaratish</string>
+    <string name="apply_dialog_apply">Xostlar faylini qo`llash</string>
+    <string name="apply_fail_status">Yangi xostlar faylini qo‘llab bo‘lmadi.</string>
+    <string name="apply_fail">Tizimingizga xostlar faylini qoʻllash amalga oshmadi!\nMaqsadli xostlar faylini /data/data/hosts ga oʻzgartirib koʻring.</string>
+    <string name="apply_fail_title">Qo‘llash amalga oshmadi</string>
+    <string name="root_access_fail">Iltimos, root huquqi berilganligiga ishonch hosil qilish uchun ildiz boshqaruv ilovasini tekshiring.</string>
+    <string name="revert_successful">Siz birlamchi xostlar fayliga qaytdingiz.\nOʻzgarishlar kuchga kirishi uchun Android’ni qayta ishga tushirishingiz kerak boʻlishi mumkin.\n\nQayta ishga tushirishni xohlaysizmi?\n(Maʼlumotlar yoʻqolishining oldini olish uchun hozirda hech qanday ilova SD-kartadan foydalanmasligiga ishonch hosil qiling. !)</string>
+    <string name="revert_successful_title">Qayta tiklandi</string>
+    <string name="revert_failed_status">Xost faylini qaytarib bo`lmadi</string>
+    <string name="revert_problem">Noma`lum sabablarga ko`ra qaytarib bo`lmadi.</string>
+    <string name="revert_problem_title">Orqaga qaytarish amalga oshmadi!</string>
+    <string name="download_fail_dialog">Yoqilgan xost manbalaringizdan hech biri bilan bog‘lanib bo‘lmaydi! Internetga to`g`ri ulanganmisiz?</string>
+    <string name="download_fail_title">Yuklab bo‘lmadi</string>
+    <string name="no_private_file_status">Yangi shaxsiy xostlar faylini yozib bo‘lmadi</string>
+    <string name="no_private_file">Shaxsiy fayl yaratib bo`lmaydi.</string>
+    <string name="no_private_file_title">Shaxsiy fayl yaratilmadi</string>
+    <string name="enable_systemless_successful">Siz tizimsiz rejimni yoqdingiz.\nOʻzgarishlar kuchga kirishi uchun Android-ni qayta ishga tushirishingiz kerak boʻlishi mumkin.\n\nQayta ishga tushirishni xohlaysizmi?\n(Maʼlumotlar yoʻqolishining oldini olish uchun hozirda hech bir ilova SD-kartadan foydalanmasligiga ishonch hosil qiling!)</string>
+    <string name="enable_systemless_successful_title">Muvaffaqiyatli yoqish</string>
+    <string name="disable_systemless_successful">Siz tizimsiz rejimni oʻchirib qoʻydingiz.\nOʻzgarishlar kuchga kirishi uchun Android’ni qayta ishga tushirishingiz kerak boʻlishi mumkin.\n\nQayta ishga tushirishni xohlaysizmi?\n(Maʼlumotlar yoʻqolishining oldini olish uchun hozirda hech qanday ilova SD-kartadan foydalanmasligiga ishonch hosil qiling!)</string>
+    <string name="disable_systemless_successful_title">Oʻchirib qoʻyildi</string>
+    <string name="enable_vpn_fail">VPN  blokirovkasini yoqib bo‘lmadi..</string>
+    <string name="disable_vpn_fail">VPN  blokirovkasini o‘chirib bo‘lmadi.</string>
+    <string name="enable_systemless_magisk_title">Xostlar Magisk modulini yoqish</string>
+    <string name="enable_systemless_magisk">Magisk menejeridan tizimsiz xostlar xususiyatini yoqing. Uning sozlamalaridan <cite>Tizimsiz xostlar</cite> opsiyasini yoqing va qurilmangizni qayta yoqing.</string>
+    <string name="disable_systemless_magisk_title">Xostlar Magisk modulini o`chirish</string>
+    <string name="disable_systemless_magisk">Magisk menejeridan tizimsiz xostlar xususiyatini o`chirib qo`ying. Modullar roʻyxatidan <cite>Tizimsiz xostlar</cite> modulini oʻchirib tashlang va qurilmangizni qayta yoqing.</string>
+
+    <!--Other Dialogs-->
+    <string name="hosts_add_dialog">Xost fayliga URL manzilini kiriting:</string>
+    <string name="no_hostname">Bu haqiqiy xost nomi emas!</string>
+    <string name="no_hostname_title">Noto`g`ri formatlangan xost nomi</string>
+    <string name="no_ip">Bu haqiqiy IP emas!</string>
+    <string name="no_ip_title">Noto`g`ri formatlangan IP</string>
+    <string name="reboot_never_reboot">Hech qachon qayta yoqmang va keyingi safar bu savolni ko`rsatmang!</string>
+    <string name="loading">Yuklanmoqda…</string>
+
+    <!--Menu entries-->
+    <string name="menu_refresh">Yangilash</string>
+    <string name="menu_add">Qo`shish</string>
+    <string name="menu_help">Yordam</string>
+    <string name="menu_import">Zaxira nusxasini import qilish</string>
+    <string name="menu_export">Zaxira nusxasini eksport qilish</string>
+
+    <!--Help-->
+    <string name="help_tab_s_on_s_off">S-ON/S-OFF</string>
+    <string name="help_tab_faq">FAQ</string>
+    <string name="help_tab_problems">Muammo</string>
+
+    <!--Adware-->
+    <string name="adware_header">Reklama dasturi</string>
+    <string name="adware_description">Bu yerda siz o`rnatilgan reklama dasturlarini, AdAway tomonidan bloklana olmaydigan yomon ilovalarni topishingiz mumkin. Bu ilovalar, masalan, ilova ishlamayotganda yoki hatto ohangingizni o`zgartirganda ham ochiladigan Airpush bildirishnomalaridan foydalanadi. Mavjud yagona chora - bu ro`yxat elementlarini bosish orqali ushbu ilovalarni o`chirish.</string>
+    <string name="adware_scanning">Skanerlash…</string>
+    <string name="adware_empty">Hech qanday havfli dastur topilmadi!</string>
+
+    <!--Other-->
+    <string name="app_subtitle">ilova</string>
+    <string name="no_text_editor_title">Hech qanday matn muharriri o`rnatilmagan</string>
+    <string name="no_text_editor">Xostlar faylini ochish uchun matn muharriri topilmadi. Buni hal qilish uchun Jota yoki boshqa matn muharrirlarini oʻrnatishingiz mumkin.\n\nJota-ni oʻrnatmoqchimisiz?</string>
+    <string name="no_file_manager_title">Hech qanday fayl menejeri o`rnatilmagan</string>
+    <string name="no_file_manager">Fayllarni ochish uchun fayl boshqaruvchisi topilmadi. Buni hal qilish uchun OI File Manager yoki boshqa fayl boshqaruvchilarini oʻrnatishingiz mumkin.\n\nOI File Manager-ni oʻrnatmoqchimisiz?</string>
+
+    <!--Tcpdump-->
+    <string name="tcpdump_header">Tcpdump</string>
+    <string name="tcpdump_description">Tcpdump - bu DNS so`rovlarini kuzatish va ularni jurnal faylida saqlash vositasi. Siz uni fonda boshlashingiz, reklamalarni ko`rsatadigan ilovalarni ishga tushirishingiz va keyin jurnal fayli yordamida DNS so`rovlarini tahlil qilishingiz mumkin. Keyinchalik mumkin bo`lgan havfli saytlarni qora ro`yxatingizga qo`shilishi mumkin.</string>
+    <string name="tcpdump_disable_monitoring">Monitoringni o`chiring</string>
+    <string name="tcpdump_enable_monitoring">Monitoringni yoqish</string>
+    <string name="tcpdump_show_results">Natijalarni ko`rsatish</string>
+    <string name="tcpdump_menu_sort">Domenlarni saralash</string>
+    <string name="tcpdump_menu_clear">Jurnalni tozalash</string>
+    <string name="tcpdump_entry_add_blacklist">Qora ro`yxatga kirish qo`shing</string>
+    <string name="tcpdump_entry_add_whitelist">Oq ro`yxatga kirish qo`shing</string>
+    <string name="tcpdump_entry_add_redirection_list">Qayta yo`naltirish ro`yxatiga yozuv qo`shing</string>
+
+    <string name="pref_edit_text_value">Matn afzalligi qiymatini tahrirlash</string>
+    <string name="drawer_open">Menyuni oching</string>
+    <string name="drawer_close">Menyuni yopish</string>
+
+    <!-- !!! Attention, always translate all items from this array !!! - Drawer menu items -->
+    <string-array name="drawer_items">
+        <item>Bosh sahifa</item>
+        <item>Xost manbalari</item>
+        <item>Sizning ro`yxatlaringiz</item>
+        <item>Xostlar faylini oching</item>
+        <item>DNS so`rovlarini qayd qiling</item>
+        <item>Sahifalarni skanerlash</item>
+        <item>Sozlamalar</item>
+        <item>Yordam</item>
+    </string-array>
+    <!--Drawer menu labels-->
+
+    <!--Shortcuts-->
+    <string name="shortcut_dns_requests">DNS so`rovlari</string>
+    <string name="shortcut_your_lists">Sizning ro`yxatlaringiz</string>
+    <string name="shortcut_preferences">Sozlamalar</string>
+
+    <!--Hosts source status-->
+    <string name="hosts_source_installed">Oʻrnatilgan %1$s ago</string>
+    <string name="hosts_source_up_to_date">Uchun dolzarb %1$s</string>
+    <string name="hosts_source_need_update">uchun yangilash kerak %1$s</string>
+    <string name="hosts_source_last_update">Oxirgi yangilanish %1$s oldin</string>
+    <string name="hosts_source_unknown_status">Noma`lum yangilanish holati</string>
+    <string name="hosts_source_disabled">O‘chirilgan</string>
+    <string name="hosts_source_few_minutes">bir necha daqiqa</string>
+    <plurals name="hosts_source_minutes">
+        <item quantity="one">%d minut</item>
+        <item quantity="other">%d minut</item>
+    </plurals>
+    <plurals name="hosts_source_hours">
+        <item quantity="one">%d soat</item>
+        <item quantity="other">%d soat</item>
+    </plurals>
+    <plurals name="hosts_source_days">
+        <item quantity="one">%d kun</item>
+        <item quantity="other">%d kun</item>
+    </plurals>
+    <plurals name="hosts_source_months">
+        <item quantity="one">%d oy</item>
+        <item quantity="other">%d oy</item>
+    </plurals>
+
+    <!-- Clipboard -->
+    <string name="clipboard_host_copied">Xost vaqtinchalik xotiraga nusxalandi</string>
+
+    <!--VPN notification-->
+    <string name="vpn_notification_starting">boshlab</string>
+    <string name="vpn_notification_running">faol</string>
+    <string name="vpn_notification_stopping">to`xtash</string>
+    <string name="vpn_notification_waiting_for_net">tarmoqni kuting</string>
+    <string name="vpn_notification_reconnecting">qayta ulanish</string>
+    <string name="vpn_notification_reconnecting_error">qayta ulanish xatosi</string>
+    <string name="vpn_notification_paused">pauza qildi</string>
+    <string name="vpn_notification_stopped">to`xtadi</string>
+    <string name="vpn_notification_title">Ilova VPN %1$s</string>
+    <string name="vpn_notification_action_pause">pauza</string>
+    <string name="vpn_notification_action_resume">Qayta boshlash</string>
+
+    <!-- Permission -->
+    <string name="permission_group_api_label">Ilova permissions</string>
+    <string name="permission_group_api_description">Ilova bilan ishlashga ruxsat bering</string>
+    <string name="permission_send_command_label">Buyruqlarni ilovaga-ga yuboring</string>
+    <string name="permission_send_command_description">Ilovaga-ga tizim bo`ylab reklama blokirovkasini yoqish yoki o`chirish kabi buyruqlar yuborishga ruxsat bering</string>
+
+</resources>

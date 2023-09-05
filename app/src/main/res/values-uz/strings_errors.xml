@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Source model errors -->
+    <string name="error_no_connection_message">Internet ishlamadi</string>
+    <string name="error_no_connection_details">Internetga ulanib bo`lmadi. Iltimos, qurilmangiz ulanishini tekshiring.</string>
+    <string name="error_download_failed_message">Xostlar manbasini yuklab bo‘lmadi</string>
+    <string name="error_download_failed_details">Internetga yana bir qaravoring.</string>
+    <!-- Hosts install model error -->
+    <string name="error_private_file_failed_message">Shaxsiy fayl yaratib bo‘lmadi</string>
+    <string name="error_private_file_failed_details">Yangi xostlar manbasini yaratish uchun shaxsiy fayl yaratib bo‘lmadi. Iltimos, qurilmangizdagi bo`sh joyni tekshiring.</string>
+    <string name="error_not_enough_space_message">Joy yetarli emas</string>
+    <string name="error_not_enough_space_details">Xost faylini tizim bo`limiga nusxalab bo`lmadi. Iltimos, Magisk tizimsiz moduli yoqilganligini tekshiring va keyin qayta yoqing.</string>
+    <string name="error_copy_failed_message">Yangi xostlar faylini o‘rnatib bo‘lmadi</string>
+    <string name="error_copy_failed_details">Xost faylini /system bo`limiga nusxalab bo`lmadi. Iltimos, Magisk tizimsiz moduli yoqilganligini tekshiring va keyin qayta yoqing.</string>
+    <string name="error_revert_failed_message">Xostlar faylini qaytarib bo‘lmadi</string>
+    <string name="error_revert_failed_details">Standart xostlar fayl konfiguratsiyasini tiklab bo‘lmadi.</string>
+    <!-- VPN model error -->
+    <string name="error_enable_vpn_failed_message">VPN yoqib bo‘lmadi.</string>
+    <string name="error_enable_vpn_failed_details">Iltimos, VPN ilovasini ishga tushirishga ruxsat berish uchun VPN sozlamalaringizni tekshiring.</string>
+    <string name="error_disable_vpn_failed_message">VPN o‘chirib bo‘lmadi.</string>
+    <string name="error_disable_vpn_failed_details">VPN sozlamalaringizni tekshiring.</string>
+</resources>

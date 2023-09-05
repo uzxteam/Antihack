@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pref_main_title">Sozlamalar</string>
+    <!-- General category -->
+    <string name="pref_general_category">Umumiy</string>
+    <string name="pref_dark_theme">Qorong`u</string>
+    <string-array name="pref_dark_theme_modes">
+        <item>Yoruq</item>
+        <item>Qorong`u</item>
+        <item>Tizim orqali</item>
+    </string-array>
+    <string name="pref_update_configuration">Avtomatik yangilanishlar</string>
+    <!-- Ad block category -->
+    <string name="pref_ad_block_category">SAhifalarni bloklash</string>
+    <string name="pref_root_ad_blocker_configuration">Ildiz asosidagi havfsizlik</string>
+    <string name="pref_vpn_ad_blocker_configuration">VPN orqali havfsizlik</string>
+    <string name="pref_enable_ipv6"> IPv6 yodamini yoqish</string>
+    <string name="pref_backup_restore">Bloklash qoidalarini zaxiralash / tiklash</string>
+    <!-- Debug category -->
+    <string name="pref_debug_category">Nosozliklarni tuzatish</string>
+    <string name="pref_enable_telemetry">Xatolikni yuborish</string>
+    <string name="pref_enable_telemetry_summary">Sentryga xabar berish (sentry.io)</string>
+    <string name="pref_enable_telemetry_disabled_summary">Bu qurilmada ishlamaydi</string>
+    <string name="pref_enable_debug">Batafsil ro`yxatga olish</string>
+    <string name="pref_enable_debug_summary">Ilovani qayta ishga tushiring</string>
+</resources>

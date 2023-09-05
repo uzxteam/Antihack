@@ -1,0 +1,9 @@
+A free and open source security tool for Android.
+
+The app is available for both rooted and non-rooted devices.
+Using a rooted device, the program updates the system hosts file, which contains a list of mappings between hostnames and IP addresses.
+Using a non-rooted device, the app uses VPN functionality to block outbound connections to ads and trackers.
+So when an application requests an advertisement or tracker from the host in this file, the request is redirected to the local IP 127.0.0.1, which does nothing.
+
+You can download a predefined list of ads and blockers as host files from within the app to install. It is also possible to use your own files and add specific hosts to the allowed and blocked list.
+There are options to run a local web server to respond to blocked hostnames and forward requests to an IP address of your choice.

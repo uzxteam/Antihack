@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hosts_title">Host manbasi</string>
+    <!-- Default hosts source -->
+    <string name="hosts_user_source">Foydalanuvchilar</string>
+    <string name="hosts_adaway_source">Ilovaning rasmiy hostlari</string>
+    <string name="hosts_stevenblack_source">StevenBlack  hosti</string>
+    <string name="hosts_peterlowe_source">Pete Lowe  host</string>
+    <!-- List -->
+    <string name="hosts_not_available">mavjud emas</string>
+    <string name="hosts_count">%s host</string>
+    <!-- Edition dialog -->
+    <string name="hosts_add_dialog_title">Manba qo`shish</string>
+    <string name="hosts_edit_dialog_title">Taxrirlashe</string>
+    <string name="hosts_dialog_url">URL: (a https:// or file:// resource)</string>
+    <string name="hosts_dialog_url_hint">Xostlarning manba URL manzili</string>
+</resources>

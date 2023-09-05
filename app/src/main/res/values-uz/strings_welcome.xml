@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="welcome_title">Salom</string>
+    <string name="welcome_first_step">Birinchi qadam</string>
+    <string name="welcome_second_step">Ikkinchi qadam</string>
+    <string name="welcome_last_step">Oxirgi qadam</string>
+
+    <!-- Method UI -->
+    <string name="welcome_method_header">Antihackga hush kelibsiz!</string>
+    <string name="welcome_method_summary">Ilova sizni himoya qilishni ikki usulini taqdim etadi birini tanlang:</string>
+
+    <string name="welcome_root_method_logo">Root</string>
+    <string name="welcome_root_method_title">Root asosida\n bloklash</string>
+    <string name="welcome_root_method_text1">Tezroq</string>
+    <string name="welcome_root_method_text2">Batareya uchun qulay</string>
+    <string name="welcome_root_method_text3">Root talab qiladi</string>
+
+    <string name="welcome_vpn_method_logo">VPN</string>
+    <string name="welcome_vpn_method_title">VPN asosida\nbloklash</string>
+    <string name="welcome_vpn_method_text1">Sekinroq</string>
+    <string name="welcome_vpn_method_text2">Orqa fonda\n ishlaydi</string>
+    <string name="welcome_vpn_method_text3">Sifatli</string>
+    <string name="welcome_root_missing_title">Rootlangan Android talab qilinadi</string>
+    <string name="welcome_root_missile_description">Yoki su binari topilmadi yoki siz ilova uchun root ruxsatiga ruxsat bermadingiz.\n\nBu holat qurilmangiz rootlanmagan boʻlsa sodir boʻlishi mumkin. Qurilmangizni qanday rootlash haqida ma`lumotni wiki.lineageos.org yoki boshqa Android veb-saytlarida topishingiz mumkin.</string>
+    <string name="welcome_method_pro_logo">Pro</string>
+    <string name="welcome_method_con_logo">Con</string>
+
+    <!-- Sync UI -->
+    <string name="welcome_sync_done_logo">Sinxronlash amalga oshirildi</string>
+    <string name="welcome_sync_error_logo">Sinxronlash paytida xato</string>
+
+    <string name="welcome_sync_header">Sinxronlash</string>
+    <string name="welcome_synced_header">Sinxronlandi!</string>
+    <string name="welcome_sync_summary">Ilova onlayn manbalardan blokirovka qilish uchun web sayt nomlarini yuklab oladi. Siz ularni keyinroq sozlamalarda sozlashingiz mumkin.</string>
+    <string name="welcome_sync_retry_logo">Sinxronlashni qaytadan urining</string>
+    <string name="welcome_sync_error">Sinxronlash amalga oshmadi: %1$s Hozir qayta urinilsinmi?</string>
+    <string name="welcome_sync_notifications">U web saytlar bloki holati va boshqaruvini ko`rsatish va mavjud ilova yangilanishi haqida xabar berish uchun bildirishnomalarni yuborishi mumkin (yiliga bir necha). Agar siz yangiliklardan xabardor bo`lishni istasangiz, ularni yoqing.</string>
+
+    <!-- Support -->
+    <string name="welcome_support_logo">Qo`llab-quvvatlash</string>
+    <string name="welcome_support_header">Loyihani qo`llab quvvatlang!</string>
+    <string name="welcome_support_summary">Ilova  bepul  boʻlib, men uni insonlarni havfsizligi uchun  ishlab chiqqaman. Agar sizga yoqsa, qo`llab-quvvatlang:</string>
+    <string name="welcome_support_button">PayME orqali xayriya qiling</string>
+    <string name="welcome_support_telemetry_summary">Xatolarni yoqtirmaysizmi? Men ham.</string>
+    <string name="welcome_support_telemetry_button">Xatolik hisobotlarini yuborish uchun telemetriyani yoqing</string>
+
+    <!-- Navigation buttons -->
+    <string name="welcome_back_button">Orqaga</string>
+    <string name="welcome_next_button">Oldinga</string>
+    <string name="welcome_finish_button">Tayyor</string>
+</resources>

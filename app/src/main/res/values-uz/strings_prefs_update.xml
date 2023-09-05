@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pref_update_title">Yangilanish</string>
+    <string name="pref_update_enable_notifications">Bildirishnomalar o`chirilgan</string>
+    <string name="pref_update_enable_notifications_summary">Ilova bildirishnomalari ko`rsatilmaydi. Ularni yoqish uchun bosing.</string>
+    <!-- Application category -->
+    <string name="pref_update_app_category">Ilova yangilanishlari</string>
+    <string name="pref_update_check_app_startup">Ishga tushganda yangilanish mavjudligini tekshiring</string>
+    <string name="pref_update_check_app_daily">Vaqti-vaqti bilan yangilanishni tekshiring</string>
+    <string name="pref_update_include_beta_releases">Beta-versiyalarni qo`shing</string>
+    <!-- Application hosts -->
+    <string name="pref_update_hosts_category">Xostlar yangilanishlari</string>
+    <string name="pref_update_check">Ishga tushganda yangilanish mavjudligini tekshiring</string>
+    <string name="pref_update_check_hosts_daily">Vaqti-vaqti bilan yangilanishni tekshiring</string>
+    <string name="pref_update_sync_on_update">Yangilanishda sinxronlash</string>
+    <string name="pref_update_sync_unmetered_only">Faqat cheklanmagan tarmoqda sinxronlash</string>
+</resources>

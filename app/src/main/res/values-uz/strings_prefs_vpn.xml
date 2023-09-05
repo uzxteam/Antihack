@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pref_vpn_title">VPN asoslangan havfsizlik</string>
+    <!-- Service configuration -->
+    <string name="pref_vpn_service_on_boot">Ishga tushganda yoqing</string>
+    <string name="pref_vpn_service_monitor">Monitor ulanishi</string>
+    <string name="pref_vpn_service_monitor_description">Vaqti-vaqti bilan tarmoq holatini tekshiring va VPN uzilganida qayta ishga tushiring.</string>
+    <!-- Excluded applications -->
+    <string name="pref_vpn_excluded_apps">Cheklangan ilovalar</string>
+    <string name="pref_vpn_excluded_apps_description">Qaysi ilovalar VPN-dan foydalanmasligi kerakligini sozlang, shunda hech qanday ulanish bloklanmaydi.</string>
+    <string name="pref_vpn_exclude_system_apps">Tizim ilovalarini istisno qiling</string>
+    <string-array name="pref_vpn_excluded_system_apps_entries">
+        <item>Yo`q</item>
+        <item>Brauzerlardan tashqari hammasi</item>
+        <item>Barchasi</item>
+    </string-array>
+    <string name="pref_vpn_exclude_user_apps">Foydalanuvchi ilovalari bundan mustasno</string>
+
+    <!-- Exclude user apps activity -->
+    <string name="pref_vpn_exclude_user_apps_activity">Cheklangan ilovalar</string>
+    <string name="pref_vpn_exclude_user_apps_select_all">Hammasini belgilash</string>
+    <string name="pref_vpn_exclude_user_apps_deselect_all">Barchasini bekor qiling</string>
+    <string name="pref_vpn_exclude_user_apps_icon">Ilova belgisi</string>
+</resources>

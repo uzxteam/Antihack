@@ -3,26 +3,28 @@
 <h3 align="center">A passionate mobil developer from Uzbekistan</h3>
  <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="uzxteam" /> 
 
+Hacking are not blocked when on mobile data connection!
+AdAway will not work reliably when on Mobile Networks like 3G. You can deactivate that proxy by going to your selected APN (On Android 4: Wireless and networks -> More… -> Mobile Networks -> Access Point Names) and remove the value in the proxy field.
 
-- 🔭 I’m currently working on [BOTRONIX AI](https://auto.botronix.uz/)
+Hacking in Chrome are not blocked!
+Disable Chrome’s Data Compression Proxy.
 
-- 🌱 I’m currently learning **FLUTTER**
+Advertisements in Application XYZ are not blocked!
+Follow this guide to find the corresponding hostnames and how to report them.
 
-- 👯 I’m looking to collaborate on [ANTIHACK](https://antihack.uz/)
+Application XYZ stopped working!
+See this list of problematic apps for a workaround. If your app is not included fill a bug report and hope for help.
 
-- 🤝 I’m looking for help with [DOKON BOR](https://play.google.com/store/apps/details?id=dasturchiuzx.dokonbor)
+Back button in Android’s Browser stopped working!
+Enable the local Webserver in AdAway’s preferences as a workaround.
 
-- 👨‍💻 All of my projects are available at [https://uzxteam.uz](https://uzxteam.uz)
+Are there more hosts sources that can be used?
+More Hosts sources can be found on the Wiki on Github.
 
-- 📝 I regularly write articles on [https://t.me/uzx_team](https://t.me/uzx_team)
+Redirection Lists for blocked domains in China
+Add Redirection Lists to your Hosts Sources to redirect blocked DNS requests to the correct IPs in China. This hosts source contains redirection rules for Google, Facebook, and other. (You need to enable “Allow redirection rules from Hosts Sources” in preferences).
 
-- 💬 Ask me about **PHP JAVA**
-
-- 📫 How to reach me **admin@uzxteam.uz**
-
-- 📄 Know about my experiences [https://uzxteam.uz](https://uzxteam.uz)
-
-- ⚡ Fun fact **I participated in more than 10 projects**
+More information?
 
 <h3 align="left">Connect with me: https://t.me/mamurof</h3>
 <p align="left">

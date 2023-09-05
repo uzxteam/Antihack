@@ -1,4 +1,7 @@
 <img src="metadata/uz/1.png" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img src="metadata/uz/2.png" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img src="metadata/uz/3.png" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<img src="metadata/uz/4.png" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 <h1 align="center">AntiHack </h1>
 <h3 align="center">AntiHack - for your security.</h3>
 

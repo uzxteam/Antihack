@@ -6,8 +6,8 @@
 <h3 align="center">AntiHack - for your security.</h3>
 
 
-Hacking are not blocked when on mobile data connection!
-AdAway will not work reliably when on Mobile Networks like 3G. You can deactivate that proxy by going to your selected APN (On Android 4: Wireless and networks -> More… -> Mobile Networks -> Access Point Names) and remove the value in the proxy field.
+Hacking are  blocked when on mobile data connection!
+AntiHack will not work reliably when on Mobile Networks like 3G. You can deactivate that proxy by going to your selected APN (On Android 4: Wireless and networks -> More… -> Mobile Networks -> Access Point Names) and remove the value in the proxy field.
 
 Hacking in Chrome are not blocked!
 Disable Chrome’s Data Compression Proxy.
@@ -19,7 +19,7 @@ Application XYZ stopped working!
 See this list of problematic apps for a workaround. If your app is not included fill a bug report and hope for help.
 
 Back button in Android’s Browser stopped working!
-Enable the local Webserver in AdAway’s preferences as a workaround.
+Enable the local Webserver in AntiHack’s preferences as a workaround.
 
 Are there more hosts sources that can be used?
 More Hosts sources can be found on the Wiki on Github.
